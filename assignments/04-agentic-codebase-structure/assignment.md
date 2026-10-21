@@ -1,4 +1,4 @@
-# Week 5 — Structuring a Repo for Agents: The Link Shortener
+# Week 4 — Structuring a Repo for Agents: The Link Shortener
 
 **Estimated time: ~2 hours.**
 
