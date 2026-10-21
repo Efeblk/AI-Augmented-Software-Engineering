@@ -8,6 +8,8 @@ A coding agent works best when a repository explains how to navigate, change, an
 
 The application is already implemented in [`starter/`](starter/). Your job is not to rebuild it. You will add a small agent-readiness layer, then use it to complete one feature.
 
+A complete example of an agent-ready repository: https://github.com/scottyUX/agent-ready-ticket-api
+
 > **Tool-agnostic.** Use the coding agent you selected earlier in the course. Different tools use different filenames and directories. The assignment evaluates the purpose and behavior of your artifacts, not a specific IDE.
 
 ## Learning goals
