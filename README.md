@@ -2,6 +2,8 @@
 
 Course materials for the **AI-Augmented Software Engineering** lecture series.
 
+The course outline and syllabus are on the [course website](https://ai-augmented-se-production.up.railway.app/).
+
 This repository collects lecture notes, slides, code examples, assignments, and resources exploring how modern AI tools change the way software is designed, built, tested, and maintained.
 
 ## Course Overview
