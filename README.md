@@ -23,6 +23,10 @@ AI-augmented software engineering is the practice of using AI systems — code a
 9. [Software Factory and the Future of Software Engineering](lectures/09-software-factory-and-the-future/) — self-running, self-improving systems and where AI software engineering goes next.
 10. [AI-Native Engineering Teams](lectures/10-ai-native-engineering-teams/) — how AI-native teams work, the standardized team stack, and LLM gateways, model routing, and cost optimization.
 
+## Midterm
+
+The midterm (25 multiple-choice questions, 1 hour, 30% of the grade) covers Lectures 1–5 and their required readings. See the [Midterm Study Guide](resources/midterm-study-guide.md).
+
 ## Repository Structure
 
 ```
